@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "Scan Fix Pro": "effortless-toffee-bf0246.netlify",
+  "name": "Scan Fix Pro",
   "orientation": "any",
   "scope": "/",
-  "Scan Fix Pro": "effortless-toffee-bf0246.netlify",
+  "short_name": "Scan Fix Pro",
   "start_url": "/",
   "theme_color": "#ffffff"
 }
